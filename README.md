@@ -1,22 +1,22 @@
-## Sep-20
+### Sep-20
 
 A few intermediate-length programs
 
-### Overview
+#### Overview
 
-1. wta_1_lz78
+###### lz78
 - **C**
 - Consists of encode and decode programs
 - Takes any input, text, binary, or image, and compresses it using LZ78 algorithm
 - LZ78 algorithm used in gzip, influenced PNG, DEFLATE, ZIP, GIF
 
-2. wta_2_py_image
+###### py_image
 - **Python**
 - Consists of encode.py, decode.py programs
 - Takes PNG, JPG, or other image input and converts into a .wta file output
 - Fairly slow: would not recommend using on large images
 
-3. wta_3_processing_rts
+###### processing_rts
 - **Java / Processing**
 - Contains Win64 and OS X Application files
 - .PDE files can either be opened in Processing IDE, or renamed to .txt files to be viewed individually
