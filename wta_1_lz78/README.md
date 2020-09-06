@@ -28,5 +28,5 @@ Decode an encoded file by typing "./decode" and providing the encoded file.
 Use the argument "-v" to see compression statistics including size and ratio.
 If the output files for either program do not exist, they will be created.
 
-EX: ./encode -i README.md -o compressed.txt
-EX: ./decode -i compressed.txt -o README.txt
+- EX: ./encode -i README.md -o compressed.txt
+- EX: ./decode -i compressed.txt -o README.txt
