@@ -1,6 +1,7 @@
 Notes:
+- Processing IDE optimal for running/viewing, however:
 - All .pde files can be renamed to .txt files to be viewed outside of Processing IDE
-- Complete .java file, including code from all 6 .pde files, viewable in application.platform/source/
+- Complete .java file, including code from all 6 .pde files combined, viewable in application.platform/source/
 
 Controls:
 - Use the keys "1" and "2" to spawn Red or Blue tanks *while hovering mouse over that team's captured base*
