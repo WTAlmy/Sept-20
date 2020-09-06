@@ -4,6 +4,7 @@ Notes:
 - Complete .java file, including code from all 6 .pde files combined, viewable in application.platform/source/
 
 Controls:
+- "r" to regenerate map from Perlin noise
 - Use the keys "1" and "2" to spawn Red or Blue tanks *while hovering mouse over that team's captured base*
 - Click and drag on spawned tanks to draw a path for them to move along
 - Units move slower on water / forest tiles compared to grass
