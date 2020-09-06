@@ -6,7 +6,6 @@ June 2020
 
 ## Contents
 - README.md
-- DESIGN.pdf
 - Makefile
 - encode.c
 - decode.c
