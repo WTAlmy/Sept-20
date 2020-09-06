@@ -1,1 +1,3 @@
-# 05-Sep-20
+# Sep-20
+
+A couple of intermediate-length programs written in the past few months.
