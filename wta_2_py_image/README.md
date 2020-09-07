@@ -21,6 +21,16 @@ much has the adverse effect of possibly eliminating small details, such as eye c
 source of a given color in an image, for example light blue making up only 20 pixels of a 1mil pixel image, it could be
 cut out and replaced by the nearest color.
 
+### Also Worth Noting
+
+The .png file format uses an algorithm similar to LZ78 / gzip as a final step. Luckily I wrote one in the first folder in the repo.
+
+If you run the following group of commands, the result is a very slight *improvement* over PNG:
+- python3 compress.py sample.png         (result: 207kb)
+- ./encode -i sample.wta -o encoded.txt  (result: 172kb) compared to PNG at 173kb
+
+It would also be an improvement to implement a generic compression algorithm such as the one above as part of the Python program.
+
 ### Usage
 
 python3 compress.py file_name.png
