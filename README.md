@@ -18,7 +18,7 @@ A few intermediate-length programs
 
 ##### processing_rts
 - **Java / Processing**
-- Contains Win64 and OS X Application files
+- Contains Win64 and OS X Executables
 - .PDE files can either be opened in Processing IDE, or renamed to .txt files to be viewed individually
 - Entire program/code is processed into one readable .java file at:
 - *Sept-20/wta_3_processing_rts/application.macosx/source/wta_3_processing_rts.java*
